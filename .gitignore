@@ -9,7 +9,7 @@
 /vendor/
 ###< symfony/framework-bundle ###
 /.vscode/*
-/.idea/*
+/.idea/
 ###> phpunit/phpunit ###
 /phpunit.xml
 .phpunit.result.cache
